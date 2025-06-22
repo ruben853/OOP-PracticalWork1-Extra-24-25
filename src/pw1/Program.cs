@@ -32,7 +32,8 @@ namespace Station
                         {
                             Console.WriteLine($"  {train.GetId()} - Status: {train.GetStatus()}, ArrivalTime: {train.GetArrivalTime()}");
                         }
-
+                        Console.WriteLine("Press enter to continue");
+                        Console.ReadLine();
                         break;
                     case 2:
                         Console.WriteLine("Starting simulation...");
@@ -47,6 +48,7 @@ namespace Station
                         break;
                     case 3:
                         station.DisplayStatus();
+                        Console.WriteLine("Press enter to go back to the menu");
                         Console.ReadLine();
                         break;
                     case 4:
