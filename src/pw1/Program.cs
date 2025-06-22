@@ -47,6 +47,7 @@ namespace Station
                         break;
                     case 3:
                         station.DisplayStatus();
+                        Console.ReadLine();
                         break;
                     case 4:
                         Console.WriteLine("Exiting the program.");

@@ -30,7 +30,7 @@ namespace Station
         {
             this.trains.Add(train);
         }
-        
+
         public void DisplayStatus()
         {
             Console.WriteLine("--- Trains ---");
