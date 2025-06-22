@@ -1,0 +1,16 @@
+ID,ArrivalTime,Type,AdditionalData1,AdditionalData2
+P001,60,passenger,5,300
+F001,75,freight,10000,coal
+P002,45,passenger,6,360
+F002,90,freight,8000,containers
+P003,30,passenger,4,250
+F003,105,freight,12000,liquids
+P004,15,passenger,3,180
+F004,60,freight,9500,grain
+P005,120,passenger,7,420
+F005,45,freight,8700,coal
+P006,90,passenger,8,500
+F006,30,freight,7000,containers
+P007,75,passenger,4,240
+F007,60,freight,11000,fertilizer
+P008,105,passenger,6,360
